@@ -1,2 +1,2 @@
 # certificate editor
- This program will edit the certificate
+ Here we are going to build a python script that can edit any certificates. 
