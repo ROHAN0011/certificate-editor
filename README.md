@@ -3,5 +3,3 @@
  You just have a sample certificate file/jpg for edit.
  
  This program created just for sample dosen't use it for illigal purpose.
-
-
